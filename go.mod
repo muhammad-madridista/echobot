@@ -1,4 +1,4 @@
-module github.com/muhammad-madridista/echobot
+module realmadridbot223
 
 // +heroku goVersion go1.12.17
 go 1.12.17
