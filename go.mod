@@ -1,7 +1,7 @@
 module echobot
 
-// +heroku goVersion go1.16.6
-go 1.16.6
+// +heroku goVersion go1.12.17
+go 1.12.17
 
 
 require github.com/PaulSonOfLars/gotgbot v1.0.0 // indirect
