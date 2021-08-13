@@ -1,6 +1,6 @@
 module EchoBot
 
-// +heruko goVersion go1.6
+// +heroku goVersion go1.6
 go 1.6
 
 
